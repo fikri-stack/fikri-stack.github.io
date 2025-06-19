@@ -393,7 +393,7 @@ h1:hover, h1:active{
     
     .fasilitas-menu {
         padding: 10px;
-        flex-direction: column;
+        flex-direction: row;
     }
     
     .fasilitas-item {
