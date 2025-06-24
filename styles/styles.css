@@ -9,7 +9,7 @@ body{
 .header{
     display: flex;
     flex-direction: row;
-    background-color: rgb(151, 151, 230);
+    background-color: rgb(78, 78, 255);
     justify-content: space-between;
     position: relative;
 }
@@ -283,7 +283,7 @@ h1:hover, h1:active{
 
 .hamburger span {
     width: 25px;
-    height: 3px;
+    height:3px;
     background-color: black;
     border-radius: 3px;
     transition: 0.3s;
